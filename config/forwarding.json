@@ -1,0 +1,27 @@
+{
+    "forwarders": [
+        {
+            "name": "My Movies database",
+            "target": -1003037888382,
+            "enabled": true,
+            "forwarding_mode": "copy",
+            "incoming": true,
+            "outgoing": true,
+            "reply": true,
+            "duplicated_text": false,
+            "send_text_only": false,
+            "translate": false,
+            "translate_to": "en",
+            "translate_from": "auto",
+            "translate_show_original": false,
+            "translate_original_prefix": "Original:",
+            "translate_translation_prefix": "Translated:",
+            "replace_words_mode": "word_boundary_match",
+            "replace_words": {},
+            "blocked_words": [],
+            "source": {
+                "-1002970909983": "1M database 1.0 (original wale)",
+                "-1002499760304": "Old Bolly Collection",
+                "-1002911933703": "Movies",
+                "-1003076889653": "Series",
+                "-1001962341503": 
